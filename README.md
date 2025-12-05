@@ -1,4 +1,8 @@
-## About This Project
+# Laravel 10 con Bootstrap 5 y livewire.
+
+Ya tiene integrado el sistema de autenticacion laravel/ui
+
+## Acerca de este proyecto
 
 Esta diseñado para trabajar con bootstrap ya tiene integradeo livewire.
 
@@ -23,12 +27,13 @@ DB_PASSWORD=contrasena_de_tu_db
 
 php artisan migrate  
 
-Para dependencias livewire  
+**Para dependencias livewire**    
 npm install  
 npm run build  
 
 
-imagenes  
+## imagenes  
+
 ![Main](public/assets/example/vista1.png)
 ![Login](public/assets/example/vista2.png)
 ![register](public/assets/example/vista3.png)
