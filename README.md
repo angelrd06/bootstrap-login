@@ -6,7 +6,7 @@ Ya tiene integrado el sistema de autenticacion laravel/ui
 
 Esta diseñado para trabajar con bootstrap ya tiene integradeo livewire.
 
-## How to install.
+## Como instalarlo.
 
 crear una carpeta en el directorio de tu preferencia ejemplo /var/www/proyecto
 
@@ -38,6 +38,6 @@ npm run build
 ![Login](public/assets/example/vista2.png)
 ![register](public/assets/example/vista3.png)
 
-## License
+## Licencia.
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
